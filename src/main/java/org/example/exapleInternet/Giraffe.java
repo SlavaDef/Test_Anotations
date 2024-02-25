@@ -1,4 +1,4 @@
-package org.example;
+package org.example.exapleInternet;
 
 
 @Mammal(color = 12, sound = "urrr")

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.exapleInternet;
 
 
 import java.lang.annotation.ElementType;
